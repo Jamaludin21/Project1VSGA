@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Project(1)VSGA</string>
+    <string name="modul_nama">Aplikasi Mobile</string>
+    <string name="modul_kalkulator">Aplikasi Kalkulator</string>
+    <string name="modul_ListView">Aplikasi List View</string>
+
+    <string name="text_judul">Masukkan Angka</string>
+    <string name="angka_pertama">Angka Pertama</string>
+    <string name="angka_kedua">Angka Kedua</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">/</string>
+    <string name="clear_btn">Bersihkan</string>
+    <string name="hasil_perhitungan">Hasil</string>
+
+
+    <string name="textview">Masukkan Nama Anda</string>
+    <string name="hintname">Name</string>
+    <string name="tampilkan">Tampilkan</string>
+    <string name="Tampil">Nama Anda :</string>
+
+
+    <string name="daftar_negara">Daftar Negara</string>
+    <string-array name="list_negara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Cambodia</item>
+        <item>Brunei</item>
+        <item>Myanmar</item>
+        <item>Filipino</item>
+        <item>Timor-Leste</item>
+    </string-array>
+</resources>
